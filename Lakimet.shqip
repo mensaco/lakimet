@@ -1,26 +1,68 @@
-pashquar
-    njëjës
-        (një) djalë
-        i, e, të (një) djali
-        (një) djali
-        (një) djalë
-        prej (një) djali
-    shumës
-        (ca) djem
-        i, e, të (ca) djemve
-        (ca) djemve
-        (ca) djem
-        prej (ca) djemsh
-shquar
-    njëjës
-        djali
-        i, e, të djalit
-        djalit
-        djalin
-        prej djalit
-    shumës
-        djemt
-        i, e, të djemve
-        djemve
-        djemt
-        prej djemve
+#######################################
+fjala
+    djalë
+lloji
+    emër
+gjinia
+    mashkullore
+lakimi
+    trajta e pashquar
+        njëjës
+            (një) djalë
+            i, e, të (një) djali
+            (një) djali
+            (një) djalë
+            prej (një) djali
+        shumës
+            (ca) djem
+            i, e, të (ca) djemve
+            (ca) djemve
+            (ca) djem
+            prej (ca) djemsh
+    trajta e shquar
+        njëjës
+            djali
+            i, e, të djalit
+            djalit
+            djalin
+            prej djalit
+        shumës
+            djemt
+            i, e, të djemve
+            djemve
+            djemt
+            prej djemve
+#######################################
+fjala
+    kalë
+lloji
+    emër
+gjinia
+    mashkullore
+lakimi
+    trajta e pashquar
+        njëjës
+            (një) kalë
+            i, e, të (një) kali
+            (një) kali
+            (një) kalë
+            prej (një) kali
+        shumës
+            (ca) kuaj
+            i, e, të (ca) kuajve
+            (ca) kuajve
+            (ca) kuaj
+            prej (ca) kuajsh
+    trajta e shquar
+        njëjës
+            kali
+            i, e, të kalit
+            kalit
+            kalin
+            prej kalit
+        shumës
+            kuajt
+            i, e, të kuajve
+            kuajve
+            kuajt
+            prej kuajve            
